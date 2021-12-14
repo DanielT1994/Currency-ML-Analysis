@@ -82,3 +82,7 @@ Use the results of the linear regression analysis and modeling to answer the fol
 * Include a Markdown that summarizes your models and findings and include this report in your GitHub repo.
 
 * Submit the link to your GitHub project to Bootcampspot.
+
+# Findings
+
+In general the models were pretty accurate, with hte in training model outpacing the non trained linear regression model.
